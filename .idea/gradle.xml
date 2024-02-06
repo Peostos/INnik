@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/2020" />
+            <option value="$PROJECT_DIR$/app/20202" />
+            <option value="$PROJECT_DIR$/app/20223" />
+            <option value="$PROJECT_DIR$/dogthuesday0602" />
+            <option value="$PROJECT_DIR$/firday" />
+            <option value="$PROJECT_DIR$/fridiejdhegjof" />
+            <option value="$PROJECT_DIR$/myapplication" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

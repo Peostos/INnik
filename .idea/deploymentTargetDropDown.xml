@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="02_02">
+        <State />
+      </entry>
+      <entry key="02_02_24">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/Medium_Phone_API_28.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-02-02T04:28:03.626622Z" />
+        </State>
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app.2020">
+        <State />
+      </entry>
+      <entry key="app.20202">
+        <State />
+      </entry>
+      <entry key="app.20223">
+        <State />
+      </entry>
+      <entry key="dogthuesday0602">
+        <State />
+      </entry>
+      <entry key="firday">
+        <State />
+      </entry>
+      <entry key="fridiejdhegjof">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/Medium_Phone_API_28.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-02-02T04:15:52.225436Z" />
+        </State>
+      </entry>
+      <entry key="myapplication">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
